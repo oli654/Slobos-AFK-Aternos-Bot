@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "PolskieUnstable.aternos.me:50883",
+    "ip": "PolskieUnstable.aternos.me",
     "port": 50883,
     "version": "1.21.11",
     "try-creative": false
